@@ -1,5 +1,7 @@
 # BFS-driven kinetics from reactive MD trajectories
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23258942.svg)](https://doi.org/10.5281/zenodo.23258942)
+
 A compact reference implementation of the data-driven workflow described in
 the paper:
 
